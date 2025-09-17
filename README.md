@@ -41,3 +41,13 @@ The goal is to **build predictive models** and **explore patterns** in player pe
 ```bash
 git clone https://github.com/Diegotorrearecha/nba-ml-analysis.git
 cd nba-ml-analysis
+
+### 2. Create a virtual environment (Windows, PowerShell)
+py.exe -3.10 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip.exe install -r requirements.txt
+
+### 3. Run the notebook
+jupyter notebook MLA_1.ipynb
+
+
