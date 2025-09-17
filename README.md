@@ -7,8 +7,11 @@ The goal is to **build predictive models** and **explore patterns** in player pe
 
 ##  Repository structure
 ├── MLA_1.ipynb # Main Jupyter notebook (analysis & models)
+
 ├── player_data.csv # Dataset with player demographic/physical data
+
 ├── seasons_stats.csv # Dataset with per-season aggregated statistics
+
 └── README.md # Project documentation
 
 ---
