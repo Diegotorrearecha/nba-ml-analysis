@@ -5,7 +5,7 @@ The goal is to **build predictive models** and **explore patterns** in player pe
 
 ---
 
-## 📂 Repository structure
+##  Repository structure
 ├── MLA_1.ipynb # Main Jupyter notebook (analysis & models)
 ├── player_data.csv # Dataset with player demographic/physical data
 ├── seasons_stats.csv # Dataset with per-season aggregated statistics
@@ -13,7 +13,7 @@ The goal is to **build predictive models** and **explore patterns** in player pe
 
 ---
 
-## 📊 Project overview
+##  Project overview
 - **Dataset sources**:  
   - `player_data.csv`: player-level information (e.g. name, age, height, position).  
   - `seasons_stats.csv`: per-season performance statistics (e.g. points, assists, rebounds).  
@@ -36,8 +36,8 @@ The goal is to **build predictive models** and **explore patterns** in player pe
 
 ---
 
-## 🚀 Quickstart
-### 1. Clone the repository
+##  Quickstart
+### Clone the repository
 ```bash
 git clone https://github.com/Diegotorrearecha/nba-ml-analysis.git
 cd nba-ml-analysis
